@@ -35,7 +35,7 @@ print('Acurácia:', accuracy)
 print('Recall:', recall)
 print('Precisão:', precision)
 
-# Aqui é a utilizando de um modelo para prever a probabilidade de um paciente ter dengue
+# Aqui é a utilização de um modelo para prever a probabilidade de um paciente ter dengue
 idade = 25
 sexo = 'M'
 temperatura_corporal = 38.5
